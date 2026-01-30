@@ -1,8 +1,6 @@
 #include <stdio.h>
-int policz(int a, int b) {
-    return a+b;
-}
+
 int main(void) {
-    printf("%d", policz(3, 5));
+    printf("Hello, World!\n");
     return 0;
 }
